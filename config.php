@@ -1,5 +1,5 @@
 <?php
-$severname = "Localhost:3306";
+$severname = "localhost:3306";
 $username= "root";
 $password ="";
 $dbname="ecommercedb";
